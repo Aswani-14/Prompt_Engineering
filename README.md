@@ -10,10 +10,10 @@ This repository contains the following files, organized as per the assignment re
 2️. `2_PromptDesign.ipynb-colab.pdf`  
 → Prompt Design & Experimentation report (Colab notebook) with tested prompts and analysis.
 
-3️⃣ `3_MiniProject.ipynb-colab.pdf`  
+3️ `3_MiniProject.ipynb-colab.pdf`  
 → Mini Project report with 5–10 domain-specific prompts and discussion and short report
 
-4️⃣ `4_Prompt_ethics_and_Limitations.docx`  
+4️ `4_Prompt_ethics_and_Limitations.docx`  
 → Essay on ethical considerations, limitations, and responsible use of prompt engineering.
 
 📂 `screenshots/`  
