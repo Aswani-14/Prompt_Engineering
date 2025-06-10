@@ -20,7 +20,7 @@ This repository contains the following files, organized as per the assignment re
 → Folder containing screenshots of ChatGPT prompt testing and outputs.
 
 ---
-#Tools used
+# Tools used
 - Google Colab
 - Google doc
 - Chat GPT(LLM)
